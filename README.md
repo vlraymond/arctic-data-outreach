@@ -1,5 +1,5 @@
 # arctic-data-outreach
-Repo for Arctic Data Center outreach and training coordination, planning, and logistics
+Repo for Arctic Data Center outreach and training coordination, planning, and logistics. Below is a list of activites and associated plannin documents. See ["Issues"](https://github.com/vlraymond/arctic-data-outreach/issues) for detailed planning for events, ["Projects"](https://github.com/vlraymond/arctic-data-outreach/projects/1) for progress on said issues, and "Wiki" for additional background on advertising events and other planning/logistics items.
 
 ## 2018 Schedule of Activities
 Also see this on the [ADC Outreach and Training google calender](https://calendar.google.com/calendar/embed?src=nceas.ucsb.edu_q8ada07hlliumm1ejcugpo89m8%40group.calendar.google.com&ctz=America%2FLos_Angeles)
