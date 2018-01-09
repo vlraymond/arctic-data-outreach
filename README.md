@@ -2,7 +2,7 @@
 Repo for Arctic Data Center outreach and training coordination, planning, and logistics
 
 ## 2018 Schedule of Activities
-(subject to change)
+Also see this on the [ADC Outreach and Training google calender](https://calendar.google.com/calendar/embed?src=nceas.ucsb.edu_q8ada07hlliumm1ejcugpo89m8%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ### 2018 Arctic Data Center Trainings
 * [48th International Arctic Workshop](http://instaar.colorado.edu/meetings/AW2018/about/index.html)  
