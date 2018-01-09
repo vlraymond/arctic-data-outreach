@@ -8,7 +8,7 @@ Repo for Arctic Data Center outreach and training coordination, planning, and lo
 * [48th International Arctic Workshop](http://instaar.colorado.edu/meetings/AW2018/about/index.html)  
 April 5 - 6, 2018  
 Boulder, CO  
-issue #  
+[See issue #3](https://github.com/vlraymond/arctic-data-outreach/issues/3)  
   
 * NCEAS Training #1  
 TBD   
