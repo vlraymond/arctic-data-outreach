@@ -7,9 +7,10 @@ Repo for Arctic Data Center outreach and training coordination, planning, and lo
 ### 2018 Arctic Data Center Trainings
 * [48th International Arctic Workshop](http://instaar.colorado.edu/meetings/AW2018/about/index.html)  
 April 5 - 6, 2018  
-Boulder, CO 
+Boulder, CO  
+issue #  
   
-* NCEAS Training #1   
+* NCEAS Training #1  
 TBD   
 Santa Barbara, CA   
 
@@ -17,6 +18,7 @@ Santa Barbara, CA
 June 19, 2018, 12:30 - 2pm  
 Room A Schwarzhorn   
 Davos, Switzerland   
+[See issue #1](https://github.com/vlraymond/arctic-data-outreach/issues/1)  
 
 * NCEAS Training #2  
 TBD  
@@ -31,6 +33,7 @@ Washington, D.C.
 January 22 - 26, 2018  
 Anchorage, AK  
 Planned Activity: One ADC member to attend AMSS and network  
+[See issue #2](https://github.com/vlraymond/arctic-data-outreach/issues/2)  
 
 * [Love Data Week](http://lovedataweek.org/2018-home/) & [Endangered Data Week](http://endangereddataweek.org/)  
 February 12 - 16, February 26 - Mar 3 (respectively)  
