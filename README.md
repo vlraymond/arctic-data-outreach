@@ -14,7 +14,8 @@ TBD
 Santa Barbara, CA   
 
 * [POLAR2018](https://www.polar2018.org/)  
-June 15 - 26, 2018  
+June 19, 2018, 12:30 - 2pm
+Room A Schwarzhorn 
 Davos, Switzerland  
 
 * NCEAS Training #2  
