@@ -39,6 +39,7 @@ Planned Activity: One ADC member to attend AMSS and network
 February 12 - 16, February 26 - Mar 3 (respectively)  
 online  
 Planned Activity: Online campaign via twitter  
+[See issue #5](https://github.com/vlraymond/arctic-data-outreach/issues/5)
 
 * [AGU Fall Meeting 2018](https://fallmeeting.agu.org/2017/future-meetings/)  
 December 10 - 14, 2018  
