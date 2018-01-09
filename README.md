@@ -34,7 +34,7 @@ Planned Activity: One ADC member to attend AMSS and network
 
 * [Love Data Week](http://lovedataweek.org/2018-home/) & [Endangered Data Week](http://endangereddataweek.org/)  
 February 12 - 16, February 26 - Mar 3 (respectively)  
-online 
+online  
 Planned Activity: Online campaign via twitter  
 
 * [AGU Fall Meeting 2018](https://fallmeeting.agu.org/2017/future-meetings/)  
