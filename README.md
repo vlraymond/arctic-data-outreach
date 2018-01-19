@@ -10,17 +10,17 @@ April 5 - 6, 2018
 Boulder, CO  
 [See issue #3](https://github.com/vlraymond/arctic-data-outreach/issues/3)  
   
-* NCEAS Training #1  
+* Toolik Field Station training  
 TBD   
-Santa Barbara, CA   
+Toolik, AK  
 
 * [POLAR2018](https://www.polar2018.org/)  
-June 19, 2018, 12:30 - 2pm  
+June 19, 21, 22 2018, 12:30 - 2pm  
 Room A Schwarzhorn   
 Davos, Switzerland   
 [See issue #1](https://github.com/vlraymond/arctic-data-outreach/issues/1)  
 
-* NCEAS Training #2  
+* NCEAS Training #1  
 TBD  
 Santa Barbara, CA  
 
@@ -47,7 +47,7 @@ Washington, D.C.
 Planned Activity: Booth at AGU  
 
 ### ADC representatives will also be attending the following events:
-Alaska Forum for Environment, ESA, ESIP Summer Meeting, SASAP trainings, DataOne All Hands Meeting
+Alaska Forum for Environment, ESA, ESIP Winter & Summer Meetings, SASAP trainings, DataOne All Hands Meeting
 
 ## Working Document links
 * [Arctic Data Center conference planning spreadsheet (2018)](https://docs.google.com/spreadsheets/d/1OiSIzkVsPvorFo9G_ZFqf7EVdYY0vDKd7o9S4_O0XGs/edit?pli=1#gid=812369282)
