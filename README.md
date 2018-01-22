@@ -21,7 +21,7 @@ Davos, Switzerland
 [See issue #1](https://github.com/vlraymond/arctic-data-outreach/issues/1)  
 
 * NCEAS Training #1  
-TBD  
+August 13 - 17
 Santa Barbara, CA  
 
 * ESA
