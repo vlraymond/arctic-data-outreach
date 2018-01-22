@@ -47,7 +47,10 @@ Washington, D.C.
 Planned Activity: Booth at AGU  
 
 ### ADC representatives will also be attending the following events:
-Alaska Forum for Environment, ESA, ESIP Winter & Summer Meetings, SASAP trainings, DataOne All Hands Meeting
+Alaska Forum for Environment, ESA, ESIP Winter & Summer Meetings, SASAP trainings, DataOne All Hands Meeting, NOAA EDM Workshop (NB, as of 1/22/18 activity halted due to government shutdown)
+
+### Cancelled activities:
+
 
 ## Working Document links
 * [Arctic Data Center conference planning spreadsheet (2018)](https://docs.google.com/spreadsheets/d/1OiSIzkVsPvorFo9G_ZFqf7EVdYY0vDKd7o9S4_O0XGs/edit?pli=1#gid=812369282)
