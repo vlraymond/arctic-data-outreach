@@ -9,10 +9,6 @@ Also see this on the [ADC Outreach and Training google calender](https://calenda
 April 5 - 6, 2018  
 Boulder, CO  
 [See issue #3](https://github.com/vlraymond/arctic-data-outreach/issues/3)  
-  
-* Toolik Field Station training  
-TBD   
-Toolik, AK  
 
 * [POLAR2018](https://www.polar2018.org/)  
 June 19, 21, 22 2018, 12:30 - 2pm  
