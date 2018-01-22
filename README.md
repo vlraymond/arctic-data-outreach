@@ -24,6 +24,9 @@ Davos, Switzerland
 TBD  
 Santa Barbara, CA  
 
+* ESA
+New Orleans, LA
+
 * [AGU Fall Meeting 2018](https://fallmeeting.agu.org/2017/future-meetings/)  
 December 10 - 14, 2018  
 Washington, D.C.  
