@@ -10,35 +10,38 @@ April 5 - 6, 2018
 Boulder, CO  
 [See issue #3](https://github.com/vlraymond/arctic-data-outreach/issues/3)  
 
+
+
 * [POLAR2018](https://www.polar2018.org/)  
 June 19, 21, 22 2018, 12:30 - 2pm  
 Room A Schwarzhorn   
 Davos, Switzerland   
 [See issue #1](https://github.com/vlraymond/arctic-data-outreach/issues/1)  
 
+* ESA
+August 5 - 10  
+New Orleans, LA  
+Planned Activity: Workshop   
+
 * NCEAS Training #1  
 August 13 - 17
 Santa Barbara, CA  
-
-* ESA
-New Orleans, LA
 
 * [AGU Fall Meeting 2018](https://fallmeeting.agu.org/2017/future-meetings/)  
 December 10 - 14, 2018  
 Washington, D.C.  
 
 ### 2018 Arctic Data Center Outreach
-* AK Marine Science Symposium  
-January 22 - 26, 2018  
-Anchorage, AK  
-Planned Activity: One ADC member to attend AMSS and network  
-[See issue #2](https://github.com/vlraymond/arctic-data-outreach/issues/2)  
-
 * [Love Data Week](http://lovedataweek.org/2018-home/) & [Endangered Data Week](http://endangereddataweek.org/)  
 February 12 - 16, February 26 - Mar 3 (respectively)  
 online  
 Planned Activity: Online campaign via twitter  
 [See issue #5](https://github.com/vlraymond/arctic-data-outreach/issues/5)
+
+NOAA EDM Workshop 
+April 23 - 24, 2018  
+Silver Springs, MD   
+(NB, as of 1/22/18 activity halted due to government shutdown)  
 
 * [AGU Fall Meeting 2018](https://fallmeeting.agu.org/2017/future-meetings/)  
 December 10 - 14, 2018  
@@ -46,8 +49,7 @@ Washington, D.C.
 Planned Activity: Booth at AGU  
 
 ### ADC representatives will also be attending the following events:
-Alaska Forum for Environment, ESA, ESIP Winter & Summer Meetings, SASAP trainings, DataOne All Hands Meeting, NOAA EDM Workshop (NB, as of 1/22/18 activity halted due to government shutdown)
-
+Alaska Forum for Environment, ESA, ESIP Winter & Summer Meetings, SASAP trainings, DataOne All Hands Meeting, 
 ### Cancelled activities:
 
 
